@@ -1,0 +1,6 @@
+{
+  "java.project.sourcePaths": [
+    "forge/src/main/java/se/yggdrasil/forge/lexer",
+    "forge/src/main/java/se/yggdrasil/forge/cli"
+  ]
+}
